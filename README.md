@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @EderDomenici
-- 📫 How to reach me domenicieder@gmail.com || +55 18 996388197
+# 👋 Olá, eu sou Eder Domenici!
 
-##
+**Back End Developer** gosto de criar soluções sejam elas simples, robustas ou escaláveis.
+Sou apaixonado por jogos sejam eles eletronicos ou RPG de mesa!!!
 
+Atuo atualmente como Orientador de Educação Digital no SESI-SP, e programador.
+
+## Sobre mim
+
+ - Atualmente focado no desenvolvimento Back End com Node.js, Python e infraestrutura.
+- Aprimorando minhas habilidades com principios como SOLID, DRY, KISS.
+- Estou sempre aberto a projetos envolvendo automação, APIs, integrações e IoT.
+- Experiência também em ambientes de maker lab, tecnologia para educação e soluções acessíveis.
 <div align="center">
   <a href="https://github.com/EderDomenici">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EderDomenici&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,3 +32,9 @@
 
           
 </div>
+
+## 📫 Como falar comigo
+
+[Email](mailto:domenicieder@gmail.com) |
+[WhatsApp](https://wa.me/5518996388197) |
+[LinkedIn](https://www.linkedin.com/in/ederdomenici/)
