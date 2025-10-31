@@ -3,7 +3,7 @@
 **Back End Developer** gosto de criar soluções sejam elas simples, robustas ou escaláveis.
 Sou apaixonado por jogos sejam eles eletronicos ou RPG de mesa!!!
 
-Atuo atualmente como Orientador de Educação Digital no SESI-SP, e programador.
+Atuo como Orientador de Educação Digital no SESI-SP, e programador.
 
 ## Sobre mim
 
@@ -11,30 +11,130 @@ Atuo atualmente como Orientador de Educação Digital no SESI-SP, e programador.
 - Aprimorando minhas habilidades com principios como SOLID, DRY, KISS.
 - Estou sempre aberto a projetos envolvendo automação, APIs, integrações e IoT.
 - Experiência também em ambientes de maker lab, tecnologia para educação e soluções acessíveis.
-<div align="center">
-  <a href="https://github.com/EderDomenici">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EderDomenici&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderDomenici&layout=compact&langs_count=7&theme=dark"/> 
- </div> 
- 
+
 ##
 
-<div align="center">
-  <h3> Technologies </h3>
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+### Linguagens e Tecnologias
 
-          
-</div>
+<img
+  align="left"
+  alt="Node.js"
+  title="Node.js"
+  width="40px" 
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
-## 📫 Como falar comigo
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="40px" 
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-[Email](mailto:domenicieder@gmail.com) |
-[WhatsApp](https://wa.me/5518996388197) |
-[LinkedIn](https://www.linkedin.com/in/ederdomenici/)
+<img
+  align="left"
+  alt="Docker"
+  title="Dcoker"
+  width="40px" 
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+<img
+  align="left"
+  alt="Prisma"
+  title="Prisma"
+  width="40px" 
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+
+<img
+  align="left"
+  alt="Selenium"
+  title="Selenium"
+  width="40px" 
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+
+  <img
+  align="left"
+  alt="Postgress"
+  title="Postgress"
+  width="40px" 
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+  <img
+  align="left"
+  alt="Mongodb"
+  title="Mongodb"
+  width="40px" 
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
+  <img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="40px" 
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+  <img
+  align="left"
+  alt="Arduino"
+  title="Arduino"
+  width="40px" 
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+
+<br/>
+<br/>
+  
+##
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 16px;">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderDomenici&show_icons=true&theme=dark&hide=stars,prs,issues&include_all_commits=true)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderDomenici&layout=donut&theme=dark)](https://github.com/EderDomenici/github-readme-stats)
+ 
+ </div>
+
+
+
+
+
+## 📫 Contato
+
+
+<a href="https://www.linkedin.com/in/ederdomenici">
+  <img
+    align="left"
+    alt="In"
+    title="In"
+    width="40px" 
+    style="padding-right: 15px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<a href="https://wa.me/5518996388197">
+  <img
+    align="left"
+    alt="whats"
+    title="whats"
+    width="40px" 
+    style="padding-right: 15px"
+    src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" />
+</a>
+
+<a href="mailto:domenicieder@gmail.com">
+  <img
+    align="left"
+    alt="email"
+    title="email"
+    width="45px" 
+    style="padding-right: 10px"
+    src="https://img.icons8.com/?size=100&id=13826&format=png&color=000000" />
+</a>
+
